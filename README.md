@@ -30,7 +30,7 @@ An interactive HR analytics dashboard built using Oracle's HR schema and Microso
 - Data source: Oracle XE database connected to Power BI
 
 ## Screenshots
-![Dashboard Screenshot]([screenshot.png](https://github.com/hboah/powerbi-oracle-banking/blob/main/hr_Dashboard.png.png))
+![Dashboard Screenshot](hr_Dashboard.png)
 
 ## Tools Used
 Power BI Desktop, Oracle 21c, SQL, DAX
