@@ -20,3 +20,20 @@ This is a personal project to build a fully functional business intelligence das
 ## Status
 Currently building visuals and preparing for cloud deployment
  
+# HR Dashboard – Power BI + Oracle
+
+An interactive HR analytics dashboard built using Oracle's HR schema and Microsoft Power BI.
+
+## Key Features
+- KPIs: Total Employees, Avg Salary, New Hires
+- Visuals: Employees by Department, Hires by Year, Gender Ratio, Regional Map
+- Data source: Oracle XE database connected to Power BI
+
+## Screenshots
+![Dashboard](screenshot.png)
+
+## Tools Used
+Power BI Desktop, Oracle 21c, SQL, DAX
+
+## Portfolio Summary
+This dashboard simulates enterprise-level HR reporting and decision-making for executive use.
